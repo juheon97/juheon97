@@ -5,7 +5,7 @@
 
 ---
 
-꿈을 이루기 위해 코딩을 배우고 있는 송주헌입니다. 잘 부탁드립니다!
+#### 꿈을 이루기 위해 코딩을 배우고 있는 송주헌입니다. 잘 부탁드립니다!
 
 <br></br>
 
@@ -17,6 +17,11 @@
     
 </div>
 
+
+
+<div align="center">
+         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+</div>
 
 <!--
 **juheon97/juheon97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
