@@ -7,7 +7,12 @@
 
 #### 꿈을 이루기 위해 코딩을 배우고 있는 송주헌입니다. 잘 부탁드립니다!
 
-<br></br>
+---
+
+#### CERTIFICATE
+- 정보처리기사
+
+---
 
 
 <div align="center">
@@ -17,10 +22,15 @@
     
 </div>
 
+---
 
+#### SKILLs
+
+---
 
 <div align="center">
          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+         <img src="https://img.shields.io/badge/English-009639?style=flat-square&logo=Bookalope&logoColor=white"/>
 </div>
 
 <!--
