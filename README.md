@@ -27,13 +27,13 @@
 
 #### SKILLs
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+
+
 ---
-
-<div align="center">
-         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-         <img src="https://img.shields.io/badge/English-009639?style=flat-square&logo=Bookalope&logoColor=white"/>
-</div>
-
 <!--
 **juheon97/juheon97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
