@@ -18,7 +18,6 @@
 
 <div align="center">
   
-  ![juheon97's GitHub stats](https://github-readme-stats.vercel.app/api?username=juheon97&show_icons=true&theme=cobalt)
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=juheon1997)](https://solved.ac/juheon1997) 
     
 </div>
